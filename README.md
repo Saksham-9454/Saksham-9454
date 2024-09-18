@@ -1,12 +1,26 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saksham Kumar
 =====================================================================================================================================
 
-Web Developer and designer
+Hardware & Network Engineer || Cyber Security Enthusiast.
 --------------------------
 
-As a current Bachelors in Computer Applications student at Chandigarh University, I possess a strong foundation in programming languages like C/C++ and intermediate knowledge in Python. My passion for technology is evident as I am a technophile, always staying up-to-date with the latest trends and advancements in the industry. During my time as a campus ambassador for Internshala, I gained valuable experience in marketing, showcasing my versatility and adaptability. Additionally, I served as the editor of Inside Tech newsletter, honing my skills in technology journalism and effective communication. My skills in front-end web development add to my diverse skill set, making me a well-rounded individual in the field of technology. Moreover, I am pursuing IT Support Specialist and Cyber Security certificates from Google and CCNA certification to further strengthen my expertise. Currently, I hold the position of Technical Manager at Shop Triangle, while also serving as an Internshala Student Partner and Campus Ambassador of E-LearnMarkets & Upgrad Campus. My goal is to bridge the gap between technology and business and become an industry expert. With excellent presentation and influencing skills, I am eager to make a positive impact in the tech world. I am enthusiastic about collaborating with like-minded individuals and exploring opportunities to grow together and thrive in today's digital world
+Troubleshoot, Protect, Innovate. From Hardware to Cybersecurity. A technophile- Bridging the gap between Hardware, Network and Cybersecurity. 
 
-* 🌍  I'm based in Delhi-NCR
+I am currently in my final year of pursuing a Bachelor's in Computer Applications at Chandigarh University, with a deep interest in cybersecurity. Throughout my academic journey, I've built a solid foundation in IT, particularly in hardware and networking, having completed CompTIA A+ and CCNA training. These have equipped me with a strong understanding of networking fundamentals, Network Security, hardware infrastructure, and troubleshooting.
+
+To further expand my expertise, I am also pursuing a Master's Diploma in Cybersecurity, delving into areas like threat management, ethical hacking, and data protection. Cybersecurity is a field that excites me due to its constantly evolving nature and the critical challenges it poses in safeguarding digital infrastructures.
+
+Professionally, I have served as a Technology Officer at Shop-triangle, a start-up where I handled technical operations and supported the development of scalable solutions. I’ve also worked as a Network Support Engineer during the Comicon Event in Delhi, ensuring stable internet connectivity across multiple booths in collaboration with senior engineers—an experience that sharpened my practical skills in managing large-scale network infrastructures.
+
+I am also a continuous learner. I have completed several courses with scholarship from Google on Coursera, such as Cybersecurity Professional and IT Automation with Python, which have deepened my understanding of cloud computing, security protocols, and automation. Furthermore, I’ve completed courses from Harvard University, including CS50B: Computer Science for Business Professionals and CS50T: Understanding Technology, which helped bridge the gap between technical knowledge and business application.
+
+In addition to my academic and professional pursuits, I run a biweekly newsletter, Inside Tech, where I share updates and insights on the latest trends in the tech industry. My goal is to simplify complex tech concepts and make them accessible to a broader audience, helping my subscribers stay informed without feeling overwhelmed.
+
+I am particularly passionate about cybersecurity and Cloud, as these fields are integral to the future of technology. The need to build secure, scalable systems that businesses and individuals can trust is what drives my dedication to learning and improving my skills in these areas.
+
+I'm always open to new challenges and meaningful conversations about the future of technology!
+
+* 🌍  I'm based in Delhi-NCR From Prayagraj, Uttar Pradesh
 * ✉️  You can contact me at [kumarsaksham423@gmail.com](mailto:kumarsaksham423@gmail.com),   [kumarsaksham94@outlook.com](mailto:kumarsaksham94@outlook.com)
 * 🧠  I'm learning Computer Networking, Linux, Python and Cybersecurity{CEH,Advance Penetration Testing, Cyber Forensics Investigation, Web application Secerity(VAPT), Mobile Application Security, Internet of things(IOT), End point security, AWS cloud & Security.
 * ⚡  I'm Editor in chief of Inside Tech
